@@ -1,0 +1,3 @@
+This repository contains a shell script that aims to find the largest number in a given list.  However, the script contains a subtle bug that prevents it from functioning correctly in all cases. The solution demonstrates how to correct this bug and provides a robust solution.
+
+The bug is related to how string comparison is handled within the conditional statement and improper handling of variable assignment. This can lead to unexpected results depending on the input numbers.
